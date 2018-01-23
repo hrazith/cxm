@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="188px" height="188px" viewBox="0 0 188 188" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-716.000000, -573.000000)">
+            <g id="Group-3-Copy" transform="translate(720.000000, 577.000000)">
+                <g id="Group-4">
+                    <g id="selcted-copy-5" stroke-width="8" stroke="#fff">
+                        <circle id="Oval" cx="90" cy="90" r="90"></circle>
+                    </g>
+                    <g id="if_support-life-buoy-saver-customer_2205229" transform="translate(25.000000, 25.000000)" fill-rule="nonzero" fill="#fff">
+                        <path d="M65,0 C48.514375,0 33.5075,6.19125 22.05125,16.29875 L45.166875,39.414375 C50.6675,35.14875 57.4925,32.5 65,32.5 C72.5075,32.5 79.3325,35.14875 84.833125,39.4225 L107.94875,16.306875 C96.4925,6.19125 81.485625,0 65,0 Z" id="Shape"></path>
+                        <path d="M45.166875,90.5775 L22.05125,113.693125 C33.5075,123.80875 48.514375,130 65,130 C81.485625,130 96.4925,123.80875 107.94875,113.70125 L84.833125,90.585625 C79.3325,94.85125 72.5075,97.5 65,97.5 C57.4925,97.5 50.6675,94.85125 45.166875,90.5775 Z" id="Shape"></path>
+                        <path d="M90.5775,45.166875 C94.85125,50.6675 97.5,57.4925 97.5,65 C97.5,72.5075 94.85125,79.3325 90.5775,84.833125 L113.693125,107.94875 C123.80875,96.4925 130,81.485625 130,65 C130,48.514375 123.80875,33.5075 113.70125,22.05125 L90.5775,45.166875 Z" id="Shape"></path>
+                        <path d="M39.4225,84.833125 C35.14875,79.3325 32.5,72.5075 32.5,65 C32.5,57.4925 35.14875,50.6675 39.4225,45.166875 L16.29875,22.05125 C6.19125,33.5075 0,48.514375 0,65 C0,81.485625 6.19125,96.4925 16.29875,107.94875 L39.4225,84.833125 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

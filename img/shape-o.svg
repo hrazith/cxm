@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Review/Comment" transform="translate(-226.000000, -149.000000)" fill-rule="nonzero" stroke="#265FC6">
+            <g id="Group-2" transform="translate(226.894737, 150.000000)">
+                <polygon id="Shape" points="13.6216216 21 0 21 0 7.37837838 13.6216216 7.37837838"></polygon>
+                <path d="M13.5940236,14.7011536 C9.54081081,14.7011536 6.24324324,11.4037563 6.24324324,7.35057182 C6.24324324,3.29737318 9.54081081,0 13.5940236,0 C17.6471655,0 20.9445912,3.29737318 20.9445912,7.35057182 C20.9445912,11.4037563 17.6471655,14.7011536 13.5940236,14.7011536 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="8px" viewBox="0 0 32 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>1492014313_MoreHorizontal</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Approve-action" transform="translate(-1084.000000, -321.000000)" fill-rule="nonzero" fill="#265FC6">
+            <g id="1492014313_MoreHorizontal" transform="translate(1084.000000, 321.000000)">
+                <path d="M4,0 C1.791,0 0,1.791 0,4 C0,6.209 1.791,8 4,8 C6.209,8 8,6.209 8,4 C8,1.791 6.209,0 4,0 Z M4,6 C2.895,6 2,5.105 2,4 C2,2.895 2.895,2 4,2 C5.105,2 6,2.896 6,4 C6,5.105 5.105,6 4,6 Z" id="Shape"></path>
+                <path d="M28,0 C25.791,0 24,1.791 24,4 C24,6.209 25.791,8 28,8 C30.209,8 32,6.209 32,4 C32,1.791 30.209,0 28,0 Z M28,6 C26.895,6 26,5.105 26,4 C26,2.895 26.895,2 28,2 C29.104,2 30,2.896 30,4 C30,5.105 29.104,6 28,6 Z" id="Shape"></path>
+                <path d="M16,0 C13.791,0 12,1.791 12,4 C12,6.209 13.791,8 16,8 C18.209,8 20,6.209 20,4 C20,1.791 18.209,0 16,0 Z M16,6 C14.895,6 14,5.105 14,4 C14,2.895 14.895,2 16,2 C17.104,2 18,2.896 18,4 C18,5.105 17.104,6 16,6 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="16px" viewBox="0 0 21 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Review/Comment" transform="translate(-186.000000, -154.000000)" fill-rule="nonzero" fill="#265FC6">
+            <path d="M194.827779,155.616757 L194.827779,158.2178 L194.827779,159.045396 L195.622494,159.053546 C201.142977,159.109038 204.252774,161.666057 205.062777,166.847769 C202.030148,163.194681 198.533219,163.193085 195.630723,163.192245 L194.827779,163.192245 L194.827779,164.027991 L194.827779,166.591521 L187.38838,161.10374 L194.827779,155.616757 L194.827779,155.616757 Z M195.630319,154 L186,161.10374 L195.630319,168.207479 L195.630319,164.027991 C199.48465,164.029629 203.05802,164.232023 206.08,169.843854 C206.08,166.279739 205.514531,158.317442 195.630319,158.217842 L195.630319,154 L195.630319,154 Z" id="Shape" transform="translate(196.040000, 161.921927) scale(-1, 1) translate(-196.040000, -161.921927) "></path>
+        </g>
+    </g>
+</svg>
